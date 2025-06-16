@@ -22,3 +22,5 @@ finally i used ps2exe to make that last ps1 into an exe so u don't have to cd yo
 note 1: will not work if the beatmap you downloaded for some reason has their image filename as blankbg.jpg, though this is extremely unlikely
 
 note 2: should still work if the beatmap uses a video instead of an image i think, just disable background video in detail settings, that'll force it to use the image
+
+note 3: the bat files and ps1 files are here for reference
